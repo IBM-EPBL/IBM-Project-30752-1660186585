@@ -1,1 +1,2 @@
-
+IBM Watson IoT platform acts as the mediator to connect the Mobile Application to IoT device, so the IBM Watson IoT platform is created.
+In order to connect the IoT device to the IBM cloud, a device in the IBM Watson IoT platform is created and the device credentials are noted.
